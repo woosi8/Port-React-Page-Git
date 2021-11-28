@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Port-React-Page-Git/static/css/main.130b4f81.chunk.css",
+    "main.js": "/Port-React-Page-Git/static/js/main.a943d0cf.chunk.js",
+    "main.js.map": "/Port-React-Page-Git/static/js/main.a943d0cf.chunk.js.map",
+    "runtime-main.js": "/Port-React-Page-Git/static/js/runtime-main.21e5c2fd.js",
+    "runtime-main.js.map": "/Port-React-Page-Git/static/js/runtime-main.21e5c2fd.js.map",
+    "static/css/2.c3715205.chunk.css": "/Port-React-Page-Git/static/css/2.c3715205.chunk.css",
+    "static/js/2.75c257c1.chunk.js": "/Port-React-Page-Git/static/js/2.75c257c1.chunk.js",
+    "static/js/2.75c257c1.chunk.js.map": "/Port-React-Page-Git/static/js/2.75c257c1.chunk.js.map",
+    "index.html": "/Port-React-Page-Git/index.html",
+    "static/css/2.c3715205.chunk.css.map": "/Port-React-Page-Git/static/css/2.c3715205.chunk.css.map",
+    "static/css/main.130b4f81.chunk.css.map": "/Port-React-Page-Git/static/css/main.130b4f81.chunk.css.map",
+    "static/js/2.75c257c1.chunk.js.LICENSE.txt": "/Port-React-Page-Git/static/js/2.75c257c1.chunk.js.LICENSE.txt",
+    "static/media/react-blue.155838cb.png": "/Port-React-Page-Git/static/media/react-blue.155838cb.png",
+    "static/media/weld.fe171048.png": "/Port-React-Page-Git/static/media/weld.fe171048.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21e5c2fd.js",
+    "static/css/2.c3715205.chunk.css",
+    "static/js/2.75c257c1.chunk.js",
+    "static/css/main.130b4f81.chunk.css",
+    "static/js/main.a943d0cf.chunk.js"
+  ]
+}
